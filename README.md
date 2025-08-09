@@ -29,3 +29,4 @@ stopwatch-app/
 ├── index.html # Main HTML file
 ├── style.css # Styling
 └── script.js # Stopwatch logic
+└── README.md # Project documentation
